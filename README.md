@@ -84,7 +84,7 @@ password:- 1234
 ```
 
 <p align="center">
-    <a href="https://github.com/ajazsaif/ecommerce-project-php/blob/main/remond.png" target="_blank">
+    <a href="https://github.com/ajazsaif/ecommerce-project-php/blob/main/remond-admin.png" target="_blank">
         <img src="https://github.com/ajazsaif/ecommerce-project-php/blob/main/remond-admin.png" width="800" alt="ecommerce-project-php" />
     </a>
 </p>
