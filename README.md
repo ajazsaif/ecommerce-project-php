@@ -18,7 +18,9 @@ git clone https://github.com/ajazsaif/ecommerce-project-php
 
 ## Setup Project
 Step 1: - create a dillionecom databse and go to database folder and import dillionecom.sql file
+<br>
 Step 2: - goto includes/dbcontroller.php class and change your $dbName = 'yourdbname'
+<br>
 Step 3:- after complete step1 and step 2 now you can acess your project
 
 ## Project Url
