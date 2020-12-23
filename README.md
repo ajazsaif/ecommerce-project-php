@@ -10,6 +10,12 @@ git clone https://github.com/ajazsaif/ecommerce-project-php
 
 ```
 
+<p align="center">
+    <a href="https://github.com/ajazsaif/ecommerce-project-php/blob/main/remond.png" target="_blank">
+        <img src="https://github.com/ajazsaif/ecommerce-project-php/blob/main/remond.png" width="800" alt="ecommerce-project-php" />
+    </a>
+</p>
+
 ## Setup Project
 Step 1: - create a dillionecom databse and go to database folder and import dillionecom.sql file
 Step 2: - goto includes/dbcontroller.php class and change your $dbName = 'yourdbname'
