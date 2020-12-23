@@ -9,7 +9,7 @@ session_unset();
 session_destroy();
 
 //session_destroy
-$baseurl = "http://localhost/dillionecom/admin";
+$baseurl = "http://localhost/ecommerce-project-php/admin";
 
 header("location:".$baseurl."/login.php");
 

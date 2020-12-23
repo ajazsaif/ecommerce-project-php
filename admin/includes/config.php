@@ -3,7 +3,7 @@ error_reporting(0);
 session_name('medicare_admin');
 session_start();
 session_regenerate_id();
-define('__WEBROOT__', "http://localhost/dillionecom/admin");
+define('__WEBROOT__', "http://localhost/ecommerce-project-php/admin");
 if(empty($_SESSION["admin-email"])){
         header("location:".__WEBROOT__."/login.php");
     

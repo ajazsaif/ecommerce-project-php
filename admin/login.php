@@ -4,7 +4,7 @@ session_name('medicare_admin');
 session_start();
 session_regenerate_id();
  include("includes/function.php");
-    define ('__WEBROOT__', "http://localhost/dillionecom/admin");
+    define ('__WEBROOT__', "http://localhost/ecommerce-project-php/admin");
     if(isset($_SESSION["admin-email"]) && ($_SESSION["role"] == "admin")){
          header("location:".__WEBROOT__."/index.php");
     }
