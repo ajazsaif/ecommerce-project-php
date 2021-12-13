@@ -81,7 +81,7 @@ http://localhost/ecommerce-project-php/admin
 login details:-
 
 username:- admin
-password:- 1234
+password:- 123
 
 ```
 
